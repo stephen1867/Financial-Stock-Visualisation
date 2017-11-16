@@ -23,6 +23,6 @@ ax = df.Open.plot()
 ax.set_xlabel('Dates')
 ax.set_ylabel('Price (USD)')
 
-
+print('hi')
 plt.show()
 
